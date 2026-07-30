@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi 👋, I'm Dwi
 
-<!--
-**newsatria466-ship-it/newsatria466-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Front-End Developer in progress
 
-Here are some ideas to get you started:
+🌱 Currently learning HTML, CSS, JavaScript, and TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Building websites and improving my coding skills
+
+📫 Reach me:
+- LinkedIn: https://www.linkedin.com/in/dwi-satria-21340b3a1/
+- Portfolio: https://portogwah.vercel.app/
+
+## Tech Stack
+
+HTML • CSS • JavaScript • TypeScript • Git • GitHub
